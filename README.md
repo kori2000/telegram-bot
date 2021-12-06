@@ -4,7 +4,7 @@ Basic Telegram Bot - Checking GitHub Repository Status
 
 ## Installation
 
-Please adjust the .env file before.
+Please adjust the .env file before starting the Container.
 
 ```bash
 # Replace .ent.test with .env to work in prod enviroment
@@ -24,7 +24,8 @@ TIMER_RANGE=1200000
 
 A Telegram Bot API token is required. Create a new one with the Telegram BOT Father: [BotFather](https://telegram.me/BotFather)
 
-- API Dokumentaion: https://core.telegram.org/api/obtaining_api_id
+- Telegram API Documentaion: https://core.telegram.org/api/obtaining_api_id
+- NPM Modul: https://www.npmjs.com/package/node-telegram-bot-api
 
 ```bash
 # Build Docker Image

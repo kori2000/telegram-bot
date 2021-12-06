@@ -1,4 +1,7 @@
 # telegram-bot
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kori2000/telegram-bot/blob/main/LICENSE)
+[![Unicorn](https://img.shields.io/badge/nyancat-approved-ff69b4.svg)](https://www.youtube.com/watch?v=QH2-TGUlwu4)
+
 Basic Telegram Bot - Checking GitHub Repository Status
 
 

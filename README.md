@@ -30,6 +30,8 @@ A Telegram Bot API token is required. Create a new one with the Telegram BOT Fat
 - Telegram API Documentaion: https://core.telegram.org/api/obtaining_api_id
 - NPM Modul: https://www.npmjs.com/package/node-telegram-bot-api
 
+## Starting
+
 ```bash
 # Build Docker Image
 make build

@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Basic Telegram Bot - Checking GitHub Repository Status",
+  "scripts": {
+    "start": "node src/server",
+    "dev": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kori2000/telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kori2000/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/kori2000/telegram-bot#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+
+  telegram:
+    container_name: bot
+    restart: always
+    build:
+      context: ./
+    env_file:
+      - .env
